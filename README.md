@@ -1,4 +1,4 @@
-# weather_history_analysis
+# Weather History Analysis
  
 The objective of this project is to analyze and process the data by drawing plots of the data, detecting outliers, finding meaningful correlations, and make a regression analysis for a part of the "Weather in Szeged 2006-2016"  dataset from Kaggle.
 
